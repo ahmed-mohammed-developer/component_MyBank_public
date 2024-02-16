@@ -1,0 +1,26 @@
+.rectangle .img-c {
+     height: 367px;
+}
+.rectangle .img-c img {
+     width: 275px;
+}
+.rectangle .spa span {
+     border-radius: 50%;
+     width: 10px;
+     height: 10px;
+     border: 1px solid #00ADB5;
+}
+.rectangle .spa span:first-child  {
+     background-color: #00ADB5;
+}
+
+.rectangle .spa-2 {
+     width: 150px;
+     height: 2px;
+     border: 1px solid #a09e9e;
+     background-color: #a09e9e;
+     border-radius: 1px;
+     position: relative;
+     bottom: -34px;
+     right: -59px;
+}

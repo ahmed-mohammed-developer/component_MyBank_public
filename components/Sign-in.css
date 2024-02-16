@@ -1,0 +1,25 @@
+.Sign-in .number-1 {
+     border-radius: 6px;
+     border: 1px solid #EAEDF4;
+     padding: 10px;
+     background: linear-gradient(to right, #EAEDF4 10.50%, white 10%);
+     margin-top: 10px;
+}     
+
+.Sign-in .number-2 {
+     border-radius: 6px;
+     border: 1px solid #EAEDF4;
+     padding: 10px;
+     margin-top: 10px;
+}
+
+.Sign-in .spa-2 {
+     width: 150px;
+     height: 2px;
+     border: 1px solid #000;
+     background-color: #000;
+     border-radius: 1px;
+     position: relative;
+     bottom: -255px;
+     right: -59px;
+}

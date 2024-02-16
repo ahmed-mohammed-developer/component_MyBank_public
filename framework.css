@@ -1,0 +1,218 @@
+:root {
+     --main-color: #00ADB5;
+     --txt-color: #222222;
+     --txt-2-color: #545F7A;
+     --background: #F9FAFE;
+}
+/* Coler */
+.c-white {
+     color: white;
+}
+.c-2222 {
+     color: var(--txt-color);
+}
+.c-txt-2 {
+     color: var(--txt-2-color);
+}
+.c-main {
+     color: var(--main-color);
+}
+.bg-main {
+     background-color: var(--main-color)
+}
+.bg-white {
+     background-color: white;
+}
+.bg-f9 {
+     background-color: var(--background);
+}
+
+/* Font */
+.fs-28 {
+     font-size: 28px;
+}
+.fs-22 {
+     font-size: 22px;
+}
+.fs-17 {
+     font-size: 17px;
+}
+.fs-16 {
+     font-size: 16px;
+}
+.fs-15 {
+     font-size: 15px;
+}
+.fs-14 {
+     font-size: 14px;
+}
+.fs-13 {
+     font-size: 13px;
+}
+.fs-12 {
+     font-size: 12px;
+}
+.fw-700 {
+     font-weight: 700;
+}
+.fw-600 {
+     font-weight: 600;
+}
+.fw-500 {
+     font-weight: 500;
+}
+.fw-400 {
+     font-weight: 400;
+}
+.lh-38 {
+     line-height: 38px;
+}
+.lh-24 {
+     line-height: 24px;
+}
+.lh-20 {
+     line-height: 20px;
+}
+.lh-19 {
+     line-height: 19px;
+}
+.lh-15 {
+     line-height: 15px;
+}
+/*  display   */
+
+.d-flex {
+     display: flex;
+}
+.d-inline-flex {
+     display: inline-flex;
+}
+.flex-d {
+     flex-direction: column;
+}
+
+.f-c {
+     position: absolute;
+     bottom: 0;
+}
+.justify-between {
+     justify-content: space-between;
+}
+.justify-evenly {
+     justify-content: space-evenly;
+}
+.justify-center {
+     justify-content: center;
+}
+.align-center {
+     align-items: center;
+}
+.gap-20 {
+     gap: 20px;
+}
+.gap-15 {
+     gap: 15px;
+}
+.gap-10 {
+     gap: 10px;
+}
+.gap-5 {
+     gap: 5px;
+}
+.flex-1{
+     flex: 1;
+}
+
+
+/* padding */
+.p-10 {
+     padding: 10px;
+}
+.pt-20 {
+     padding-top: 20px;
+}
+
+
+
+
+/* Margin */
+.m-in-50 {
+     margin-inline: 50px;
+}
+.m-block-20 {
+margin-block: 20px;
+}
+.m-30 {
+     margin: 30px;
+}
+.mt-50 {
+     margin-top: 50px;
+}
+.mt-30 {
+     margin-top: 30px;
+}
+.mt-2{
+     margin-top: 2px;
+}
+.mt-0 {
+     margin-top: 0;
+}
+.mb-30 {
+     margin-bottom: 30px;
+}
+.mb-10 {
+     margin-bottom: 10px;
+}
+.mb-5 {
+     margin-bottom: 5px;
+}
+.mb-0 {
+     margin-bottom: 0;
+}
+
+
+/* box */ 
+.h-500 {
+     height: 500px;
+}
+.w-70 {
+     width: 70%;
+}
+.btn {
+     background-color: #00ADB5;
+     border-radius: 10px;
+     height: 40px;
+     cursor: pointer;
+}
+.img-24 {
+     height: 20px;
+     width: 20px;
+}
+
+.card-bank {
+     width: 238px;
+     height: 136px;
+}
+
+.over-c {
+     overflow: hidden;
+
+}
+.d-inlin {
+     display: inline;
+}
+.rad-10 {
+     border-radius: 10px;
+}
+.rad-16 {
+     border-radius: 16px 16px 0 0;
+}
+.rad-50 {
+     border-radius: 50%;
+}
+/* text */
+
+.c-txt {
+     text-align: center;
+}
+

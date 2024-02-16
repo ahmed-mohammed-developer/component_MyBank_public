@@ -1,0 +1,41 @@
+@import url("components/container.css");
+@import url("components/helpers.css");
+@import url("components/home.css");
+@import url("components/Rectangle.css");
+@import url("components/Sign-in.css");
+@import url("components/dashboard.css");
+
+
+
+
+
+body {
+     background-color: #eee;
+}
+
+a {
+     text-decoration: none;
+     color: white;
+}
+input{
+     border:0;
+     outline:0;
+     margin-left: 8px;
+    }
+    
+    @
+    input:focus {
+         outline:none!important;
+    }
+@media (width < 900px){
+     .MyBank {
+          display: grid;
+          grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+     }
+}
+@media (width < 400px){
+     .MyBank {
+          display: grid;
+          grid-template-columns: minmax(375px, 1fr);
+     }
+}
